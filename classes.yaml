@@ -1,0 +1,11 @@
+# PCB Defect Detection Classes
+
+names:
+  0: Open
+  1: Short
+  2: Mousebite
+  3: Spur
+  4: Copper
+  5: Pin-hole
+
+nc: 6
