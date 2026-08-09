@@ -1,6 +1,8 @@
-streamlit>=1.33
-ultralytics>=8.1
-pillow
-pandas
-pyyaml
+streamlit
+ultralytics
 opencv-python-headless
+pandas
+numpy
+matplotlib
+Pillow
+PyYAML
